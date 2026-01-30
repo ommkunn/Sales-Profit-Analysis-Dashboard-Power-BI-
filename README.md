@@ -6,6 +6,8 @@ The primary objective of the project is to analyze **Sales and Profit performanc
 
 The dashboard is designed to switch dynamically between **Sales** and **Profit** views, enabling users to explore different business perspectives within the same report layout.
 
+![Preview](https://github.com/ommkunn/Sales-Profit-Analysis-Dashboard-Power-BI-/blob/main/0130.gif)
+
 ---
 
 ## Learning Objectives
